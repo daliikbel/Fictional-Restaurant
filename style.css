@@ -1,0 +1,102 @@
+*{margin: 0!important;
+  padding: 0!important;}
+
+  .herosection{
+  background-image: url(italian-food-composition-with-big-space-middle_23-2147686550.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  display: flex; flex-direction: column; justify-content: center;
+  align-items:center; height: 250px;}
+header .row{position: sticky!important}
+.row{background-color: black;color: white;}
+
+a {justify-self: end; 
+color: white;text-decoration: none;
+margin: left 20px; ;}
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;}
+
+h1 {
+    color: white;
+    font-size: 20px;}
+
+    button {
+      background-color: rgb(248, 105, 38);
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      font-size: 15px;
+      border-radius: 5px;
+      cursor: pointer;
+      padding-top: 20px;
+      padding-block: 20px;
+      
+      transition: background-color 0.3s ease;}  
+  button:hover {
+      background-color: red;}
+    About .row{margin-top: 50px!important;border-color: wheat ;border: 2px solid;}
+      .image{display: flex;justify-content: center;align-items: center!important;}
+      .image img {width: 350px;height: 300px;}
+      .text2{margin-top: 50px; display: flex;flex-direction: column;justify-content: center;align-items: center!important;}
+      .text2 h1{padding-bottom: 20px!important;color: orange;}
+     .contact {
+    background-color: black;
+    width: 100%;
+    margin: 50px auto;
+    text-align: center;}
+  
+  .contact h2 { color: white; padding-top: 10% !important;
+    margin-bottom: 20px;}
+  .form-group {color: white;
+    margin-bottom: 20px;}
+  label {
+    display: block;
+    margin-bottom: 5px;}
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;}
+  button {
+    padding: 10px 20px;
+    background-color:orange ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;}
+  
+  button:hover {
+    background-color:red}
+
+
+    .footer {
+      background-color:black;
+      padding: 20px 0;
+      text-align: center;}
+  
+  .container {
+      max-width: 1200px;
+      margin: 0 auto;}
+  
+  .social-icons {margin-top: 10px;}
+  
+  .social-icon {
+      display: inline-block;
+      margin: 0 10px;
+      width: 30px;
+      height: 30px;}
+  
+  .social-icon img {
+      width: 100%;
+      height: 100%;}
+      footer{background-color: black;}
+      footer p { color: white!important;} 
+      
